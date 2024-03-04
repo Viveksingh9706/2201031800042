@@ -1,0 +1,34 @@
+
+.container_main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+
+.cont_box1{
+   padding-left: 20px;
+}
+.cont_box1 h3{
+    color: rgb(216, 102, 199);
+}
+.container_sideBox{
+   width: 500px;
+   height: 50px;
+   border: 2px solid rgb(216, 102, 199);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 50px;
+}
+.box2_logo img{
+  width: 30px;
+  height: 30px;
+}
+.box2_logo{
+    padding-top:9px; 
+}
+h2 span{
+    color: rgb(211, 35, 200);
+}
